@@ -1,0 +1,15 @@
+.ant-select-selector {
+    /* background-color: red; */
+    height: 45px;
+    /* padding: 20px; */
+}
+.container-dropdown {
+    height: 53px;
+    width: 140px;
+    border: 2px solid white;
+    border-radius: 0px;
+    cursor: pointer;
+    font-size: 18px;
+    margin: 0px;
+    padding: 0px;
+}

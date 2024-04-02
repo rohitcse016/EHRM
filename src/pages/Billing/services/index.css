@@ -1,0 +1,30 @@
+/* .ant-table-thead{
+  background-color: green;
+}
+.ant-table-thead .ant-table-cell {
+  background-color: blue;
+}*/
+/* .ant-table-thead1 .ant-table-cell{
+  border: 1px solid #000;
+}  */
+
+.ant-table
+  .ant-table-container
+  .ant-table-content
+  table
+  thead.ant-table-thead
+  .ant-table-cell {
+  background-color: rgb(0, 157, 255);
+  font-size: larger;
+  color: white;
+}
+.ant-table1
+  .ant-table-container
+  .ant-table-content
+  table
+  thead.ant-table-thead
+  .ant-table-cell {
+  background-color: #AFDBF5;
+  font-size: medium;
+  color: rgb(10, 9, 9);
+}
